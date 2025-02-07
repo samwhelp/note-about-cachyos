@@ -8,24 +8,18 @@ has_children: false
 # 連結
 
 
-## EndeavourOS
+## CachyOS
 
-* [EndeavourOS](https://endeavouros.com/) ([GitHub](https://github.com/endeavouros-team))
-* EndeavourOS-Community-Editions ([GitHub](https://github.com/EndeavourOS-Community-Editions))
-
-
-
-
-## EndeavourOS / Download / Mirror
-
-* [http://mirror.archlinux.tw/EndeavourOS/iso/](http://mirror.archlinux.tw/EndeavourOS/iso/)
+| Link | GitHub |
+| ---- | ------ |
+| [CachyOS](https://cachyos.org/) | [GitHub](https://github.com/cachyos) |
 
 
 
 
-## News
+## CachyOS / Download / Location
 
-* [Plasma 6 with Wayland or X11 option and qt 6 ported Calamares, meet Gemini](https://endeavouros.com/news/plasma-6-with-wayland-or-x11-option-and-qt-6-ported-calamares-meet-gemini/)
+* SourceForge / cachyos-arch / [files](https://sourceforge.net/projects/cachyos-arch/files/)
 
 
 
