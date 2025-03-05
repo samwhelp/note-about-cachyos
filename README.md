@@ -12,17 +12,37 @@
 
 ## 主題
 
-* [CachyOS Adjustment](#cachyos-adjustment)
+* [CachyOS Respin](#cachyos-respin)
+* [輸入法](#輸入法)
+* [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
 
 
 
-## CachyOS Adjustment
+## CachyOS Respin
 
 | Link | GitHub |
 | ---- | ------ |
 | [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
+
+
+
+
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-cachyos/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/cachyos-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+
+
+
+
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-cachyos/read/subject/grub.html) |
 
 
 
@@ -34,6 +54,7 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 | [EndeavourOS 探索筆記](https://samwhelp.github.io/note-about-endeavouros/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros) |
+| [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
