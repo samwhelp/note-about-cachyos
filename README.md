@@ -12,21 +12,12 @@
 
 ## 主題
 
-* [CachyOS Respin](#cachyos-respin)
 * [微調腳本](#微調腳本)
+* [CachyOS Respin](#cachyos-respin)
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
-
-
-
-
-## CachyOS Respin
-
-| Link | GitHub |
-| ---- | ------ |
-| [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
 
 
 
@@ -37,6 +28,15 @@
 | ------- |
 | [CachyOS Config](https://github.com/samwhelp/cachyos-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/cachyos-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## CachyOS Respin
+
+| Link | GitHub |
+| ---- | ------ |
+| [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
 
 
 
